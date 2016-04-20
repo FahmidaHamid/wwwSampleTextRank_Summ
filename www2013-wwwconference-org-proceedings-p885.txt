@@ -1,0 +1,1 @@
+ video reuse relies on existing video content. video remixing also relies on tools for collecting and editing existing video while creating a new video, e.g. some tools focused on particular classes of video. eviews of video. we tested and confirmed this for online video.

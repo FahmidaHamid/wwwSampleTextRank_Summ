@@ -1,0 +1,1 @@
+ peer (p ): for each statement we have to memorize which peer it originated from. then, the query relaxation algorithm is applied to the query. of answers / query / peer each peer used remindin  to select up to pmax = 2 peers to send the query to. here, peer selection was randomized to 20%.

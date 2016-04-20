@@ -1,0 +1,1 @@
+ this example demonstrates how new functionality is integrated in a web application. the mappings are stored on the application servers. as in safe, updates to html and css code are performed automatically.

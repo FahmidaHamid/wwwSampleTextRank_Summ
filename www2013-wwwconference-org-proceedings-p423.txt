@@ -1,0 +1,1 @@
+  5,6,e  9. this represents that so far source 5 only has path to 6. node 3. node 3 at step 3.  # of query nodes  # of query nodes  # of query nodes 2) for all these path expressions, the algorithm produces   extensions. in other words, the algorithm did not build new path expressions using the prefetched path expressions.

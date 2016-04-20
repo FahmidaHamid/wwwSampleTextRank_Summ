@@ -1,0 +1,1 @@
+ transmitting content over httpi instead of http would prevent such modi cations. httpi and http. httpi requires both browsers and web servers to adhere to the protocol. with httpi, web sites decide what content uses httpi as the underlying transport mechanism. we evaluate the performance of httpi in two steps.  httpi  httpi

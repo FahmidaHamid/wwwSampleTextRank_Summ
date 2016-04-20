@@ -1,0 +1,1 @@
+ we derive the similarity between attributes using four sets of cues, namely, (1) lexical name matching, (2) semantic name matching, (3) type matching, and (4) structural matching.

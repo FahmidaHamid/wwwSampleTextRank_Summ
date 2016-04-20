@@ -1,0 +1,1 @@
+ to each of of these operations, a cost is assigned. the rtdm algorithm combines the ideas presented in [25] and [19]. tree. target tree. the algorithm has two steps. the algorithm works each time in a single page, so it does not compare the page trees.

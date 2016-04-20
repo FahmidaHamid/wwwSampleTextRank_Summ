@@ -1,0 +1,1 @@
+ we also analyze in moboq. example question and answers moboq. then the user should inputs the question about the poi. we found only 4909 registered users (13.94%) posted at least one question. number of answers per question every question contains two url links to moboq site.

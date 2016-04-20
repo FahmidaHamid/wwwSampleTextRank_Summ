@@ -1,0 +1,1 @@
+ string dictionaries. a summary of the top-k completion algorithm on the completion trie data structure is presented in algorithm 1. algorithm 1 top-k completion with completion trie. in the compressed encoding of the completion trie, each trie node represents at most 7 characters. comparison with completion trie. figure 9: completion time breakdowns.

@@ -1,0 +1,1 @@
+ the im manages users and user groups sharing an application. management of user preferences. input from application.

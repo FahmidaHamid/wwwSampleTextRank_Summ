@@ -1,0 +1,1 @@
+ all our energy measurements are stated in joules or millijoules. energy model. naively one might conjecture that the energy needed to send rendering energy. figure 8: energy consumed by images. figure 8 shows energy measurements for images on web pages. this resulted in an energy drop of 5 joules. javascript is one of the most energy consuming components in a web page.

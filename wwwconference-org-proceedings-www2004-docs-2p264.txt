@@ -1,0 +1,1 @@
+ this calendar is a default itinerary which is created by the instructional designers and the teachers of the course. the student has access to several learning resources (documents, exercises, etc.) accordingly to such itinerary. the scorm standard is used to structure all the reusable learning objects following such itinerary.

@@ -1,0 +1,1 @@
+ (list explanation). a list explanation is complete if all evidence considered in the map analysis is included. score evidence pos in total, there are 6 pieces of positive evidence and no negative evidence. both methods can be applied for list explanation of any map decision. its key evidence in l+ is the evidence with score 60. (dag explanation).

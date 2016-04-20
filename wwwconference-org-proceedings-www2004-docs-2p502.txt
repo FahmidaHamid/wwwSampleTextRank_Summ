@@ -1,0 +1,1 @@
+ similarly, when the gateway receives a query through its web interface, it distributes the query to all of its gnutella neighbors. in addition to serving gnutella clients, our gateway also permits web users to query and retrieve resources in the gnutella network. of query responses no.

@@ -1,0 +1,1 @@
+ the players are presented with questions on capital cities, and their answers are added to the database. the idea is that we are given probabilistic rules and a query on the data. query evaluation algorithm. data inserts.    the number of questions answered by a single user varied from 10 to 100.

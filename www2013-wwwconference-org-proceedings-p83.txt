@@ -1,0 +1,1 @@
+ there may be other hosts behind this ldns that we would not have seen. we refer to all clients that used a given ldns as the ldns cluster.  avg # client ips per ldns  ldnss we now discuss some noteworthy client and ldns behaviors we observed in our experiments.

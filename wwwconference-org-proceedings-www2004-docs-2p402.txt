@@ -1,0 +1,1 @@
+ this will necessitate further increases in rsa key sizes and worsen the performance bottleneck. elliptic curve cryptography (ecc) [5] promises to ful ll this need.  suites for ssl [3].

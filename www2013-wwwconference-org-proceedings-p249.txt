@@ -1,0 +1,1 @@
+   an annotation is the linking of a mention to an entity. the dataset was introduced in [7]. the dataset was introduced in [16]. the dataset was introduced in [2]. these problems ask annotation systems to produce a likelihood score for each annotation.

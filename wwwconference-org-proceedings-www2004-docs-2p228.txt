@@ -1,0 +1,1 @@
+ the trust architecture should not exclude information providers which have not been rated or do not publish trust relevant information in a specific way, e.g. sign their information. we are prototyping a trust architecture following the principles stated above.

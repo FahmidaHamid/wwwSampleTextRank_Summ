@@ -1,0 +1,1 @@
+  over r such that att( ) = att(r). let r be a relational schema. , am], where r   r and   ( {a1, . , am}   att(r). , bm], where r, s   r,   ( {a1, . , an, r): indicates that r[a1, . , an, r), value(v1, a1, t, r), . , an, t, r, x)  class(r),  haspkn(r),

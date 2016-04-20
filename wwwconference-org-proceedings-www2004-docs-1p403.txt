@@ -1,0 +1,1 @@
+  meaning trust matrix tij is i s trust of j.  trust coupling distrust trust only trust only   = e1 

@@ -1,0 +1,1 @@
+ in lieu of other player moves, player 1 can collect 2.1m. player 1 starts with the original lattice. the frontier for the  rst player is as shown.  player 2 gets a revenue of 1.3m. player 1 picks node a. there are 60 users in each node. this is because player player 1 gets a payoff of  80 and player 2 and 3 get a payoff of 40 each.  player 1 and 2 would both get a payoff of 40.

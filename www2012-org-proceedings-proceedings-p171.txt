@@ -1,0 +1,1 @@
+ requests (%) load (%) crawler human query cache. web object cache. it does not terminate until the web server is terminated. the throughput for the traces without the crawler cache is

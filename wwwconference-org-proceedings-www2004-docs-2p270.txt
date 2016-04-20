@@ -1,0 +1,1 @@
+ as we know, owl has a mechanism to import an owl ontology into another owl ontology. the vocabulary of an ontology is the set of names that occur in the ontology as individuals, classes and properties, except for built-ins. let   ==== ( ,  ,  ,  ) be a distributed ontology with commitment relations.

@@ -1,0 +1,1 @@
+ partition trees. news. hearsay reads out the labels of top-level partitions ((cid:147)news(cid:148), (cid:147)opinion(cid:148), ..., (cid:147)headline news(cid:148), ..., etc. the sequences of html tags for the nodes (cid:147)international(cid:148), (cid:147)arts(cid:148), ..., etc.

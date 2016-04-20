@@ -1,0 +1,1 @@
+  o such that, for any data set d and any query q: o such that, for every query q and data set  individuals data set 105n 1.7   104n 2   105n 2.5   104n query lower bound upper bound  query lower bound upper bound query lower bound upper bound owl

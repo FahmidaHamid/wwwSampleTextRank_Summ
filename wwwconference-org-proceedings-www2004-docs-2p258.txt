@@ -1,0 +1,1 @@
+ the query algebra features mechanisms for modeling data dissemination and replication, and for incorporating replication constraints into query plans.

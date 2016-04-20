@@ -1,0 +1,1 @@
+ this meaning is largely based on the meaning of names which, in the semantic web, are uri references [4]. further the semantic web meaning of these consensus documents is just their formal meaning, which is easy to determine. semantic web meaning only serves as a core, common meaning for semantic web documents, to be used or abused as desired.

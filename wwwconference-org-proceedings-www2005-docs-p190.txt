@@ -1,0 +1,1 @@
+ first, all web services in a domain should use concepts from the same domain ontology in their descriptions. identifying domain concepts. be added to the domain ontology. the higher the ratio between all relevant concepts and all concepts of the ontology, the better it supports ontology building. our method is tailored for dealing with web service descriptions.

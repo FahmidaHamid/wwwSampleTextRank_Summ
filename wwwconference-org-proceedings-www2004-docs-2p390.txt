@@ -1,0 +1,1 @@
+ the key idea behind the p-tree is to maintain parts of semi-independent b+-trees at each peer. in a p-tree, each peer stores and maintains only the leftmost root-to-leaf path of its corresponding b+-tree.

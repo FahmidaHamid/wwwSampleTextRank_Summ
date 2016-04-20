@@ -1,0 +1,1 @@
+ the components of the message that relate to transporting the message are defined.  business message.

@@ -1,0 +1,1 @@
+ for a new query, it can only belong to a previous search task or be the  rst query of a new task.  feature query -based  # query single-query task multi-query task  multi-session task interleaving task query/task* table 6: search task extraction performance.

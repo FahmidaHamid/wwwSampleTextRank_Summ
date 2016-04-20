@@ -1,0 +1,1 @@
+ a web site usually contains great amounts of information distributed through hundreds of pages. if a new user registers itself to the web site, it is classi ed according to the same scheme. the reclassi cation phase is based on the interaction of each user with the web site.

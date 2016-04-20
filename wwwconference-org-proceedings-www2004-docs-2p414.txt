@@ -1,0 +1,1 @@
+ an element may have one or more values. the domain type of an attribute can be derived from its label(s) and associated element(s). from the labels and values of an attribute, we may get some information about its unit. meanwhile, an attribute label should be identified for each attribute.

@@ -1,0 +1,1 @@
+ this feature differs greatly in how it is implemented across bbas. some bbas require it, some forbid it, and some do some of each. and since some bbas may not implement a given feature at all, the user may spend time and effort searching in vain. because of the many similarities among bbas, each bba seems comfortable and familiar to the user.

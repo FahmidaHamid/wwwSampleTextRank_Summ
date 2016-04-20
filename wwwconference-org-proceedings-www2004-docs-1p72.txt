@@ -1,0 +1,1 @@
+ the approach we have developed manipulates web content by combining and applying a number of page transforms and adaptations according to user preferences without requiring web designers and developers to rewrite their web content. web page showing enlarged browser controls. web page showing linearization. web page showing panel for colors with the page colors transformed.

@@ -1,0 +1,1 @@
+ entity linking. workers, we start by describing the probabilistic graphs used to combine all evidences gathered for a given entity. the sentences containing the entity are shown to the worker (snippets).  worker

@@ -1,0 +1,1 @@
+ when a user of orel writes a license, the user should obey not only xml but also owl specification. orel is powered by the semantic web technologies. with the advance of semantic web, orel would reveal its great advantages. we have released the orel version 0.5.

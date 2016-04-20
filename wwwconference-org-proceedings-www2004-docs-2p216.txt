@@ -1,0 +1,1 @@
+ part interfaces are also standardized. a wire connects part outpins with part inpins. it is used to develop vscb configurations visually. the vscb diagram represents actions by outpins at each web page device. during 2003 five masters projects were developed based on vscb.

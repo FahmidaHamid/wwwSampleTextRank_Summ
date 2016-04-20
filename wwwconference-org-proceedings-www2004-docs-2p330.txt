@@ -1,0 +1,1 @@
+ each peer maintains his local cached data coherency by participating cc-buddy overlay. parent peer pushes updates to its children peers in turn. client peer register the data item of interest and the associated coherency requirement with its parent peer.

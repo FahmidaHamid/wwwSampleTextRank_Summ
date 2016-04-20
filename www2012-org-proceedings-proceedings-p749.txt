@@ -1,0 +1,1 @@
+ man-made snow).  photo containing snow, whereas about 1 in 700 people take a photo containing evidence of snow at a non-snowy place.  snow days (snow>0 inches) number of obs. predicting snow quantities.  predict the snow ranges for the four cities using the numbers of snow and non-snow users. retrieving snow or non-snow bins. snow cover at that time and place.

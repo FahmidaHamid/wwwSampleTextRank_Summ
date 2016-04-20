@@ -1,0 +1,1 @@
+ for each edge (u, v)   e, node v must be in the transmission range of node u. for transmitting signal from node u to node v. the remaining part is the power consumed at the receiver node and is denoted as receiver power. each mobile node can individually adjust its own transmission power.  v , i ) .

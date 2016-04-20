@@ -1,0 +1,1 @@
+ damljesskb also spent a lot of time on these queries and almost two hours on query 8 on the smallest data set. query 4 instances # (10k)  query 8 instances # (10k) damljesskb, though also memory based, underperforms the others both in load time and query time.

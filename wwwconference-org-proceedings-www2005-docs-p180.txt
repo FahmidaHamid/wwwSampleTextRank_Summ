@@ -1,0 +1,1 @@
+ noti cation is polled with the poll request. each noti cation contains a subscription part, an event part and a noti cation computing part. matches cause a noti cation to be dispatched to the channel.

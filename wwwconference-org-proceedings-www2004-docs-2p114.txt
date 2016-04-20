@@ -1,0 +1,1 @@
+ system does not force the designer to create adaptive applications that will provide adaptation to a learning style selected by the authors of the system. concept map. concept database.  of each concept would appear as objects included into a page associated with that concept.

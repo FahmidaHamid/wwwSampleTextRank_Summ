@@ -1,0 +1,1 @@
+  links to every single web page. random page. only 4 web sites had over 200,000 pages. we analyzed the contents of these downloaded pages to obtain the outgoing links from each page.  popularity  popularity  popularity given these two hypotheses, we can derive how the popularity of a page evolves over time.

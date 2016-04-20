@@ -1,0 +1,1 @@
+ quality information is expressed using quality parameters and quality sets. quality parameters. quality sets. quality sets are classes of quality parameters. quality rules.

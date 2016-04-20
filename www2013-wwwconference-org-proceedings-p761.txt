@@ -1,0 +1,1 @@
+ for instance, in query  of actors, as in query 4 and query 5, is also not supported. , ym are node variables. that precede node variables. in such timeout cases we discontinued query evaluation.

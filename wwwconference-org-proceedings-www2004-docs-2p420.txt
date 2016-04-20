@@ -1,0 +1,1 @@
+ system the document schema and the document type ontologies are built in the system.  after defining the ontologies and annotating the metadata of the document, we can query for information. in order to view the content of the document, the user can check the metadata before opening the file, which is illustrated in figure 3.

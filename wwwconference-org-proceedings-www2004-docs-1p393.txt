@@ -1,0 +1,1 @@
+ the two attack methods developed are:  fected by an attack.  item pred that is, if an item is pushed for some users, that item is nuked for other users. operators wish to know whether their recommendations systems are under attack. what can system operators do if their system is attacked?

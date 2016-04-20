@@ -1,0 +1,1 @@
+ a layout component encapsulates the presentation layout information. a transformer component transforms the xml returned by the bll to xhtml using the layout component. the business component represents the objects that exist within a business and the processes that can occur between these objects. we have presented openmvc a framework based on the mvc pattern.

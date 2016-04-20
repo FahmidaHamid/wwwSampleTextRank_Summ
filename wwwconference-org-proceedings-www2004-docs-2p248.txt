@@ -1,0 +1,1 @@
+ those methods focused only on images in web pages. for those categories, we researched the color tendencies.  hue color hue

@@ -1,0 +1,1 @@
+ some service buttons have states that must be remembered by the portal whenever the user clicks on them.  figure 9. figure 18  figure 18. this forces portal developers to implement the user interface of each service (e.g.

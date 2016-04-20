@@ -1,0 +1,1 @@
+ queries are sent and forwarded blindly by each peer. a peer can send queries to other peers and respond to queries from other peers with messages containing search results, scores, and a peer location. each peer can forward queries to nn = 5 neighbors. a query can be forwarded at most ttl=3 times from one peer.

@@ -1,0 +1,1 @@
+ in other words, a device requires just a kind of rpc-like interfaces that return results of behavior when the device receives service from other devices. [device name]._http._tcp.

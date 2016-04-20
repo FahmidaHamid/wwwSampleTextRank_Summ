@@ -1,0 +1,1 @@
+ clearly, our method improves the scalability of the system in terms of nodes and query throughput.

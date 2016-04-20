@@ -1,0 +1,1 @@
+ released their statistics regarding mobile search usages [24, 14], in 2008 and 2009, respectively.  desktop  mobile tablet desktop (cid:2)  mobile tablet desktop  tablet as a result, we resort to user clicks as pseudo labels for mobile and tablet. we see that in mobile tablet

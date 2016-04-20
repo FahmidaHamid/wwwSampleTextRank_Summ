@@ -1,0 +1,1 @@
+ domain owners provide the audit proof along with the certi cate such that clients can validate whether the certi cate was included in the log. certi cate creation. in aki, registering a new certi cate does not automatically validate it:. certi cate update. the domain then sends the aki

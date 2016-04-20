@@ -1,0 +1,1 @@
+  d(w) + 1 p ib n (w) +  p ib n (v) d(v) + (1   d)s(v) p ib n+1(v) = d  p ib n (w) +  p ib n (v) d(v) ! n (v) xw v d(v) + 1 xw v  the v   v crossing transitions in the back process.

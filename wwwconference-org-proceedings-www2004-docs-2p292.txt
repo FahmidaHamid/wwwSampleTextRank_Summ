@@ -1,0 +1,1 @@
+ the design of the bandwidth control policy must achieve two contrasting goals.  figure 3: measured bandwidth for a crawler with simple control on the number of fetchers. figure 2 compares two runs of the crawler with maxd = in this paper we have presented a technique to control the bandwidth of a crawler.

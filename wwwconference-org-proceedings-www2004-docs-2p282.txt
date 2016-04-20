@@ -1,0 +1,1 @@
+ when a user places a bookmark in the ontology (i.e., makes it shared with the system) his/her peer is in charge of storing the bookmark for the whole system.

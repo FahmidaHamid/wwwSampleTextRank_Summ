@@ -1,0 +1,1 @@
+ just as for class and property axioms, rule axioms can also have annotations. in this syntax, a rule has the form: antecedent !  ontologies can include rule axioms and variable declarations as well as owl axioms, import statements etc. rule axioms are similar to owl subclassof axioms, except they have owlr:rule as their element name.

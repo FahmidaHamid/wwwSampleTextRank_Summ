@@ -1,0 +1,1 @@
+ in all published link ranking algorithms, all links have the same importance.

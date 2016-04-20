@@ -1,0 +1,1 @@
+ information this suggests an alternative approach to information portal design. in the semantic web approach supplying groups host their own data and the portal becomes an aggregating service.

@@ -1,0 +1,1 @@
+ 11: crawler x company 1 12: target  13: crawler y company 2 figure 1: a sample ip hierarchy. if so, the url is delegated to this migrating crawler.

@@ -1,0 +1,1 @@
+ the varying types of auction fraud are as follows. we start from introducing the online probit regression model in section 2.1. model  tting. model  tting. model  tting. model  tting.  for all the above online models we ran 10000 iterations plus if any of these cases is fraud, all of this seller s cases will be labeled as fraud.

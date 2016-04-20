@@ -1,0 +1,1 @@
+ we also omitted any user with a whitespace password. we see that passwords such as 123456 and password are very common.  password note, we recover either zero or one password at each guess. as password. online, so the more password choices it sees, the better we expect it will be at making choices uniform.

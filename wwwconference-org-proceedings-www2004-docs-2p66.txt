@@ -1,0 +1,1 @@
+ providers can also check the qos registry to see how their qos is ranked among other service providers. service providers can view and change their services at any time.  update services web service  service description the bigger the di erence, the lower the qos will be for that service provider.  qos service sensitivity value

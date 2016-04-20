@@ -1,0 +1,1 @@
+ number of search tasks in search sessions. for ( based on the queries and result clicks of the user in the task so far, including the current query (cid:2) (but not its clicks).  extracted from all tasks in all search histories; (model 4 vs. model 5 vs. model 6). [model 3 vs. (model 3 + cohorts)].  queries per task  >4 sequence number of query in task  model.

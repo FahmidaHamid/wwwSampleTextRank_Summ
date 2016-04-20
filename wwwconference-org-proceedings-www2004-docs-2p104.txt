@@ -1,0 +1,1 @@
+ it also monitors student progress, changes student goals, knowledge, and interests; then sends updates to the student model server. a value-adding service combines features of a portal and an activity server. like an activity server, it can be architecture.

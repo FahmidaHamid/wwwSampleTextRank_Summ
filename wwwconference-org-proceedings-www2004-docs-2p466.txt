@@ -1,0 +1,1 @@
+ this includes rdf and rdf schema. the xslt also queries the rdf directly to get media information about each individual resource. rdf does not specify sequence over its resources.

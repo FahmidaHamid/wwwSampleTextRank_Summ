@@ -1,0 +1,1 @@
+ service execution. the interaction. client consumer from the service provider. to the service provider. from our perspective, the sendm operation is a service offered by both conversation participants. at the consumer side, before invoking the operations on the provider.

@@ -1,0 +1,1 @@
+   task control is concerned with completing a task or re-planning task execution. rule 1 repanswer rule. then, the rule for managing the aggregate control information of performers is represented in rule 3. rule 3 goldentruthrule. rule 4 objectresultrule. rule 5 excutionresultrule.

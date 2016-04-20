@@ -1,0 +1,1 @@
+ tree mining and graph mining. two approaches to visualize the output of data mining have been implemented using this library.  graph. figure 2 is a visualization of web usage based on strahler numbering for assigning colors to the edges. figure 2: left: 2d visualization with strahler coloring applied on web usage logs.

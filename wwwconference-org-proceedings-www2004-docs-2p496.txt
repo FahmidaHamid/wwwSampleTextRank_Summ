@@ -1,0 +1,1 @@
+ by assembling all urls on the site we can reconstruct the directory structure. in many cases this gives a very useful overview of the site contents. mulates the statistics, and writes to the site store, which is currently in the same way, site browser reveals details about sites and their interrelations, which again may change the behavior of site creators.

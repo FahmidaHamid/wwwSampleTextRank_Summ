@@ -1,0 +1,1 @@
+ some owl full documents are also owl dl documents, and some owl dl documents are also owl lite documents. some owl dl documents are also in owl lite. owl:disjointwith; as an example, most nodes in owl lite and owl dl have to have an explicit type triple in owl lite and owl dl.

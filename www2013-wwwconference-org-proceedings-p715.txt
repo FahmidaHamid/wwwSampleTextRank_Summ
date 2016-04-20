@@ -1,0 +1,1 @@
+ we argue that a result diversi cation algorithm should be evaluated under a measure which tightly integrates the query in its value. to optimize exprel(cid:2) of the result set, we propose a greedy algorithm bestcoverage.  k  k  k  k k  k

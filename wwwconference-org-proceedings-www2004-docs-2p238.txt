@@ -1,0 +1,1 @@
+ content aggregations. the  value  field holds the identification or content of the item.   environmental  node in the course metadata file.

@@ -1,0 +1,1 @@
+ the narration is repeatedly offered at most three times before it is replaced. a narration with highest matching score is selected. then the narration the reasoning module

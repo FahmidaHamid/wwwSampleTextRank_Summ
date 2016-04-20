@@ -1,0 +1,1 @@
+ time of day. we annotate each photo with all weather conditions that appear between two hours before and after the photo.

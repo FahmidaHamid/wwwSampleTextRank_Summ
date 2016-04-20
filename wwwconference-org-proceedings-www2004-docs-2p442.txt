@@ -1,0 +1,1 @@
+ tcoz has the multithreaded capabilities to capture that. the semantic markup for the system can be resolved from the tcoz design documents also. the ontology for the system can be resolved readily from the static parts of tcoz design documents.   the given types in the tcoz model are directly translated into daml+oil classes.

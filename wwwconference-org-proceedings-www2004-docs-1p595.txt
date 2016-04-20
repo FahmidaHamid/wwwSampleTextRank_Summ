@@ -1,0 +1,1 @@
+ reference compression.   a list of residuals (the remaining integers), compressed using differences. for example, consider the list of remaining copy list       the value   represents the number of successors that have been copied from the reference list, and may be computed as follows:

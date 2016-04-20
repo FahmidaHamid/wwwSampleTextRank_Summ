@@ -1,0 +1,1 @@
+  rdf(s) so that all rdf graphs are allowed. in rdfs(fa) interpretations not only sets of objects and pairs of objects are considered, but also sets of sets of objects and sets of sets of pairs of objects, etc. each other as in rdfs(fa). the domain of rdf(dl) interpretations is the set of all individuals, like in dl.

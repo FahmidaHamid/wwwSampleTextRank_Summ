@@ -1,0 +1,1 @@
+ di = 1 indicates the user saw the advertisement). we can t see what the user would do after seeing the ad, and then simultaneously measure what the user would have done had they not seen the ad.  lift this can be measured by the ctr of all users on the ad. search from any user is $15.65, but is only $1.69 for a targeted user.
